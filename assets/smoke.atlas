@@ -1,0 +1,90 @@
+
+smoke.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+effect boc khoi
+  rotate: false
+  xy: 2, 1250
+  size: 584, 310
+  orig: 584, 310
+  offset: 0, 0
+  index: 0
+effect boc khoi
+  rotate: false
+  xy: 2, 938
+  size: 584, 310
+  orig: 584, 310
+  offset: 0, 0
+  index: 1
+effect boc khoi
+  rotate: false
+  xy: 588, 1250
+  size: 584, 310
+  orig: 584, 310
+  offset: 0, 0
+  index: 2
+effect boc khoi
+  rotate: false
+  xy: 2, 626
+  size: 584, 310
+  orig: 584, 310
+  offset: 0, 0
+  index: 3
+effect boc khoi
+  rotate: false
+  xy: 588, 938
+  size: 584, 310
+  orig: 584, 310
+  offset: 0, 0
+  index: 4
+effect boc khoi
+  rotate: false
+  xy: 1174, 1250
+  size: 584, 310
+  orig: 584, 310
+  offset: 0, 0
+  index: 5
+effect boc khoi
+  rotate: false
+  xy: 2, 314
+  size: 584, 310
+  orig: 584, 310
+  offset: 0, 0
+  index: 6
+effect boc khoi
+  rotate: false
+  xy: 588, 626
+  size: 584, 310
+  orig: 584, 310
+  offset: 0, 0
+  index: 7
+effect boc khoi
+  rotate: false
+  xy: 1174, 938
+  size: 584, 310
+  orig: 584, 310
+  offset: 0, 0
+  index: 8
+effect boc khoi
+  rotate: false
+  xy: 2, 2
+  size: 584, 310
+  orig: 584, 310
+  offset: 0, 0
+  index: 9
+effect boc khoi
+  rotate: false
+  xy: 588, 314
+  size: 584, 310
+  orig: 584, 310
+  offset: 0, 0
+  index: 10
+effect boc khoi
+  rotate: false
+  xy: 1174, 626
+  size: 584, 310
+  orig: 584, 310
+  offset: 0, 0
+  index: 11
