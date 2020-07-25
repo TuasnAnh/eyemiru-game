@@ -6,182 +6,189 @@ filter: Nearest,Nearest
 repeat: none
 BG
   rotate: false
-  xy: 2, 760
+  xy: 2, 764
   size: 720, 1280
   orig: 720, 1280
   offset: 0, 0
   index: -1
 basket_back
   rotate: false
-  xy: 2, 350
+  xy: 1446, 867
   size: 165, 126
   orig: 165, 126
   offset: 0, 0
   index: -1
 basket_front
   rotate: false
-  xy: 724, 648
+  xy: 2, 158
   size: 165, 110
   orig: 165, 110
   offset: 0, 0
   index: -1
 bg_leaderboard
   rotate: false
-  xy: 724, 760
+  xy: 724, 764
   size: 720, 1280
   orig: 720, 1280
   offset: 0, 0
   index: -1
 border
   rotate: false
-  xy: 1976, 760
+  xy: 1976, 764
   size: 18, 1280
   orig: 18, 1280
   offset: 0, 0
   index: -1
 close_eye
   rotate: false
-  xy: 724, 482
+  xy: 1446, 788
   size: 64, 22
   orig: 64, 22
   offset: 0, 0
   index: -1
+den_long
+  rotate: false
+  xy: 2, 377
+  size: 702, 385
+  orig: 702, 385
+  offset: 0, 0
+  index: -1
 facebook
   rotate: false
-  xy: 1790, 885
+  xy: 1613, 889
   size: 143, 104
   orig: 143, 104
   offset: 0, 0
   index: -1
 flower
   rotate: false
-  xy: 973, 704
+  xy: 934, 426
   size: 54, 54
   orig: 54, 54
   offset: 0, 0
   index: -1
 hop_thuoc
   rotate: false
-  xy: 2, 103
+  xy: 275, 129
   size: 103, 139
   orig: 103, 139
   offset: 0, 0
   index: -1
 hop_thuoc_fake
   rotate: false
-  xy: 361, 337
+  xy: 581, 236
   size: 77, 139
   orig: 77, 139
   offset: 0, 0
   index: -1
 hop_thuoc_fake2
   rotate: false
-  xy: 724, 506
+  xy: 169, 128
   size: 104, 140
   orig: 104, 140
   offset: 0, 0
   index: -1
 hop_thuoc_gio
   rotate: false
-  xy: 528, 370
+  xy: 1758, 887
   size: 87, 106
   orig: 87, 106
   offset: 0, 0
   index: -1
 internet
   rotate: false
-  xy: 1446, 778
+  xy: 346, 271
   size: 143, 104
   orig: 143, 104
   offset: 0, 0
   index: -1
 lo_1_gio
   rotate: false
-  xy: 891, 651
+  xy: 706, 373
   size: 80, 107
   orig: 80, 107
   offset: 0, 0
   index: -1
 lo_2_gio
   rotate: false
-  xy: 2, 2
+  xy: 788, 381
   size: 76, 99
   orig: 76, 99
   offset: 0, 0
   index: -1
 lo_thuoc
   rotate: false
-  xy: 169, 338
+  xy: 380, 131
   size: 100, 138
   orig: 100, 138
   offset: 0, 0
   index: -1
 lo_thuoc_fake
   rotate: false
-  xy: 271, 338
+  xy: 491, 237
   size: 88, 138
   orig: 88, 138
   offset: 0, 0
   index: -1
 lo_thuoc_fake2
   rotate: false
-  xy: 830, 506
+  xy: 866, 340
   size: 66, 140
   orig: 66, 140
   offset: 0, 0
   index: -1
 logo
   rotate: false
-  xy: 1446, 884
+  xy: 2, 270
   size: 342, 105
   orig: 342, 105
   offset: 0, 0
   index: -1
 open_eye
   rotate: false
-  xy: 617, 428
+  xy: 2, 2
   size: 65, 48
   orig: 65, 48
   offset: 0, 0
   index: -1
 panel
   rotate: false
-  xy: 1446, 991
+  xy: 1446, 995
   size: 528, 1049
   orig: 528, 1049
   offset: 0, 0
   index: -1
 replay
   rotate: false
-  xy: 2, 244
+  xy: 2, 52
   size: 142, 104
   orig: 142, 104
   offset: 0, 0
   index: -1
 score
   rotate: false
-  xy: 1591, 829
+  xy: 1446, 812
   size: 129, 53
   orig: 129, 53
   offset: 0, 0
   index: -1
 star
   rotate: false
-  xy: 1996, 2011
+  xy: 1996, 2015
   size: 28, 29
   orig: 28, 29
   offset: 0, 0
   index: -1
 tree2
   rotate: false
-  xy: 2, 478
+  xy: 706, 482
   size: 720, 280
   orig: 720, 280
   offset: 0, 0
   index: -1
 vitaminA
   rotate: false
-  xy: 440, 352
+  xy: 1847, 869
   size: 86, 124
   orig: 86, 124
   offset: 0, 0
